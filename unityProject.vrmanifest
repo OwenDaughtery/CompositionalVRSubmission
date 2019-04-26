@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.compositionalvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Owen Daughtery\\Documents\\GitHub\\CompositionalVR - Copy\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Compositional VR [Testing]"
+        }
+      }
+    }
+  ]
+}
